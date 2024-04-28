@@ -17,14 +17,14 @@ export const MODAL_COLORS = {
 const PRIMARY = {
   lighter: "#eda5a5",
   light: "#e78787",
-  main: "#185fa0",
+  main: "#FF4D00",
   dark: "#0070C0",
   darker: "#9e4a4a",
 };
 const SECONDARY = {
   lighter: "#D6E4FF",
   light: "#84A9FF",
-  main: "#B33F42",
+  main: "#FF4D00",
   dark: "#1939B7",
   darker: "#091A7A",
 };
