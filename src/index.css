@@ -15,12 +15,12 @@ body{
   
 
   ::-webkit-scrollbar-track {
-    background: #FF4D00; 
+    background: #FFF; 
   }
   
   /* Apply styles to the scrollbar thumb */
   ::-webkit-scrollbar-thumb {
-    background-color: #FFFF; 
+    background-color: #FF4D00; 
     border-radius: 3px; 
   }
 

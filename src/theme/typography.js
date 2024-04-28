@@ -35,7 +35,7 @@ const typography = {
     ...responsiveFontSizes({ sm: 40, md: 44, lg: 40 }),
   },
   h3: {
-    fontWeight: 600,
+    fontWeight: 800,
     lineHeight: 1.5,
     fontSize: pxToRem(24),
     ...responsiveFontSizes({ sm: 26, md: 30, lg: 32 }),
@@ -59,7 +59,7 @@ const typography = {
     ...responsiveFontSizes({ sm: 18, md: 18, lg: 18 }),
   },
   subtitle1: {
-    fontWeight: 400,
+    fontWeight: 500,
     lineHeight: 1.5,
     fontSize: pxToRem(16),
   },
